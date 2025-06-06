@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://sjtuiisc.github.io/sitemap.xml

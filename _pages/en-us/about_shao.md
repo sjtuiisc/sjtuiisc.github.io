@@ -1,0 +1,13 @@
+**Xiaowei Shao**
+
+**Professor**
+
+**Titles**: Dean of School of Sensing Science and Engineering, Deputy Director of the Ministry of Education Aerospace Science and Technology Engineering Center, Director of Institute of Intelligent Sensing and Control, Director of Distributed Satellite Systems Technology Laboratory
+
+**Affiliation**: School of Aeronautics and Astronautics, School of Electronic Information and Electrical Engineering
+
+**Personal webpage**: [[university webpage]](https://www.aero.sjtu.edu.cn/Data/View/1020), [[Baidu Encyclopedia]](https://baike.baidu.com/item/邵晓巍/59736028)
+
+**Research interests**: AGI-based game evolution technology, precision formation design and control for satellite clusters, and intelligent cooperative planning and simulation for satellite systems
+
+**Brief introduction**: In response to the major strategic needs of national science and technology development and security, through innovative research in basic science and core key technologies, leading national major scientific equipment demonstrations and project approvals, and achieving breakthrough scientific research results. By using advanced methods such as large model intelligent system adversarial game theory and technology, cluster networks and control, it has successively received support from various ministries and scientific research plans including the National Natural Science Foundation, the Military Science and Technology Commission, the Equipment Development Department, the National Defense Science and Industry Bureau, the High-Resolution Special Project, the 863 Program, and the Beidou and Deep Space Exploration Special Projects. Internationally, it was the first to propose methods such as globally optimal satellite formation analytic design and fuel-optimal high-precision satellite formation maintenance control. At the results appraisal meeting organized by the Ministry of Education, several academicians and domain experts unanimously appraised that "the satellite formation design and maintenance control technology is at an international leading level", and it has been fully applied in China's first precision formation satellite system "Tianhui II", the first differential measurement satellite formation system "Lutan I", and other 5 types of 12 equipment. The research results have successively been featured on CCTV, People's Daily reports, and the front page headline of Shanghai Jiao Tong University, and were awarded one of the top ten scientific and technological progress awards at Shanghai Jiao Tong University.
