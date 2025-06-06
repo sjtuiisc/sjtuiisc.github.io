@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://sjtuiisc.github.io/sitemap.xml
+Sitemap: https://sjtuiisc.github.io/sitemap.xml
