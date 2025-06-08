@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: IISC  # the website title (if blank, full name will be used instead)
+title: DSSTL  # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
-last_name: IISC
+last_name: DSSTL
 email: you@example.com
 keywords: # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

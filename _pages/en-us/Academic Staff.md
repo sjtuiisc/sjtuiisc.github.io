@@ -34,6 +34,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: left
+    image: daimingzhi.jpg
+    content: about_daimingzhi.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
 
   - align: left
     image: chenchangyu.jpg
@@ -47,11 +52,17 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
-
   - align: left
-    image: gechao.jpg
-    content: about_gechao.md
+    image: huchenxi.jpg
+    content: about_huchenxi.md
     image_circular: false # crops the image to make it circular
     more_info: 
+
+  - align: left
+    image: wangbaoxiang.jpg
+    content: about_wangbaoxiang.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
 
 ---

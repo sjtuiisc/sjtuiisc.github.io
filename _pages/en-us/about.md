@@ -15,9 +15,9 @@ social: false # includes social icons at the bottom of the page
 <div class="warning" >
 <span>
 <p style='margin-top:1em; text-align:left'>
-<b> Intelligent Introduction</b></p>
+<b>Laboratory Introduction</b></p>
 <p style='margin-left:1em;'>
-The Institute of Intelligent Sensing and Control (IISC) focuses on the national strategic development needs, deeply engaging in distributed satellite formation and networking technology research. By studying the fundamental science and core technologies of new intelligent sensing and control, it leads the national major scientific equipment demonstration projects and achieves breakthrough scientific results. Supported by the National Natural Science Foundation, the Military Science and Technology Committee, the Equipment Development Department, the National Defense Science and Industry Bureau, the high-resolution special project, the 863 Plan, and the BeiDou and Deep Space Exploration special projects, the lab has achieved over 100 million in both research funding and capacity building through innovative mechanisms and technological research. This support has contributed to the development of China's first precision formation satellite, Tianhui 2, along with 12 other types of equipment.
+The Distributed Satellite Systems Technology Laboratory (DSSTL) focuses on the national strategic development needs, deeply engaging in distributed satellite formation and networking technology research. By studying the fundamental science and core technologies of new intelligent sensing and control, it leads the national major scientific equipment demonstration projects and achieves breakthrough scientific results. Supported by the National Natural Science Foundation, the Military Science and Technology Committee, the Equipment Development Department, the National Defense Science and Industry Bureau, the high-resolution special project, the 863 Plan, and the BeiDou and Deep Space Exploration special projects, the lab has achieved over 100 million in both research funding and capacity building through innovative mechanisms and technological research. This support has contributed to the development of China's first precision formation satellite, Tianhui 2, along with 12 other types of equipment.
 </p></span>
 <span>
 <p style='margin-top:1em; text-align:left'>
