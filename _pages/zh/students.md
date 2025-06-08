@@ -13,12 +13,6 @@ profiles:
 
 
   - align: left
-    image: fujiangliang.jpg
-    content: about_fujiangliang.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-
-  - align: left
     image: caoyong.jpg
     content: about_caoyong.md
     image_circular: false # crops the image to make it circular
@@ -87,6 +81,12 @@ profiles:
   - align: left
     image: mengchaoqun.jpg
     content: about_mengchaoqun.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: zhanghongyuan.jpg
+    content: about_zhanghongyuan.md
     image_circular: false # crops the image to make it circular
     more_info: 
 

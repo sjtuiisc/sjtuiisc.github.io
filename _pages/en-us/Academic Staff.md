@@ -41,28 +41,21 @@ profiles:
     more_info: 
 
   - align: left
-    image: chenchangyu.jpg
-    content: about_chenchangyu.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-
-  - align: left
     image: bingqi.jpg
     content: about_bingqi.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
-    image: huchenxi.jpg
-    content: about_huchenxi.md
+    image: gechao.jpg
+    content: about_gechao.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
-    image: wangbaoxiang.jpg
-    content: about_wangbaoxiang.md
+    image: liuwei.jpg
+    content: about_liuwei.md
     image_circular: false # crops the image to make it circular
     more_info: 
-
 
 ---

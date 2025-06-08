@@ -91,6 +91,12 @@ profiles:
     more_info: 
 
   - align: left
+    image: zhanghongyuan.jpg
+    content: about_zhanghongyuan.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
     image: chenzheng.jpg
     content: about_chenzheng.md
     image_circular: false # crops the image to make it circular

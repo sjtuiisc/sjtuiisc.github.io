@@ -8,6 +8,23 @@ nav: true
 nav_order: 4
 ---
 
+<b>April 2025 at Shanghai Disneyland</b>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Disney1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Disney2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Disney3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    at Shanghai Disneyland。
+</div>
+
 <b>May 2024 Spring Outing to Zhujiajian</b>
 
 <div class="row">
