@@ -23,7 +23,9 @@ social: false # includes social icons at the bottom of the page
 <b>实验室情况</b></p>
 <p style='margin-left:1em;'>
 <span style="color:#c00000"><b>核心机理创新 · 重大技术突破 · 乐聚探趣同行</b></span>
-
+<br>
+<b>总装备部批示，校企共建：分布式航天器系统技术实验室</b>；
+<br>
 <b>国际首次提出</b>：编队构形解析设计、燃料精度最优保持和复杂扰动相对导航等技术；
 <br>
 <b>首建军事大模型</b>：面向军事实时博弈，构建“吕尚”大模型，对抗游戏场景，规划军事装备；结合国家真实场景数据和有效算力进行算法适应性；
@@ -36,7 +38,7 @@ social: false # includes social icons at the bottom of the page
         {% include video.liquid path="assets/video/labvideo1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/labimage1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include video.liquid path="assets/video/labvideo2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 <div class="caption">
