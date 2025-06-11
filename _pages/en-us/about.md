@@ -12,38 +12,26 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-<div class="warning" >
+<div class="warning">
 <span>
 <p style='margin-top:1em; text-align:left'>
-<b> Institute Introduction</b></p>
+<b>研究所简介</b></p>
 <p style='margin-left:1em;'>
-The Institute of Intelligent Sensing and Control (IISC) focuses on the national strategic development needs, deeply engaging in distributed satellite formation and networking technology research. By studying the fundamental science and core technologies of new intelligent sensing and control, it leads the national major scientific equipment demonstration projects and achieves breakthrough scientific results. Supported by the National Natural Science Foundation, the Military Science and Technology Committee, the Equipment Development Department, the National Defense Science and Industry Bureau, the high-resolution special project, the 863 Plan, and the BeiDou and Deep Space Exploration special projects, the lab has achieved over 100 million in both research funding and capacity building through innovative mechanisms and technological research. This support has contributed to the development of China's first precision formation satellite, Tianhui 2, along with 12 other types of equipment.
+The Institute of Intelligent Sensing and Control at Shanghai Jiao Tong University is committed to serving the nation’s major strategic development needs. It has long been dedicated to integrating "AI+X" algorithm research with intelligent sensing and control, swarm intelligence self-play, and iterative scientific innovation. The Institute has independently developed the “Lü Shang” multimodal large model, leading the initiation and demonstration of major national scientific equipment projects and achieving a series of groundbreaking research outcomes.
+
+The Institute currently boasts 5 senior and 5 intermediate professional staff, as well as 3 nationally recognized experts. Its team includes numerous outstanding scholars from top 20 global universities. Team members have been honored with awards such as the Shanghai Super Postdoctoral Fellowship, the Magnolia Talent Program, the Shanghai Outstanding Academic Leader Award, the Top Ten Scientific and Technological Progress Awards of Shanghai Jiao Tong University, recognition as key experts in major national in-orbit service projects, and the title of Shanghai Top Ten Outstanding Youth. Their achievements have been featured by CCTV, People's Daily, The Paper, Sina News, the official website of the Macao SAR Government, TDM (Macau), and the front page of Shanghai Jiao Tong University’s official media.
+
+With a strong focus on fundamental research and innovation, the Institute has led and participated in over 30 research projects funded by national programs such as the National Natural Science Foundation of China, the Central Military Commission Science and Technology Committee, the Equipment Development Department, the State Administration of Science, Technology and Industry for National Defense, the High-Resolution Earth Observation Program, the 863 Program, and the Beidou and Deep Space Exploration Special Projects. Through pioneering theoretical innovation and technological advancement, the Institute has surpassed one billion RMB both in research funding and capacity building, published over 100 high-level academic papers, applied for more than 30 patents, and authored two books under national publishing initiatives.
+
+A major technological breakthrough proposed by the Institute for the first time internationally has been unanimously recognized by academicians Wang Liheng, Bao Weimin, and other experts as “at the forefront of international standards,” and has been successfully applied to five models and twelve sets of equipment in major national engineering projects. The Institute is equipped with robust experimental infrastructure and computational power to support cross-domain research, and it possesses strong technical capabilities in aerospace swarm system design and physical simulation.
 </p></span>
 <span>
 <p style='margin-top:1em; text-align:left'>
-<b>Research Directions</b></p>
-<p style='margin-left:1em;'>
-Addressing 125 scientific questions from "SCIENCE," and combining the characteristics and needs of space groups: AI for swarm intelligence evolution; AGI-based game evolution technology; space collaboration and in-orbit services; precision formation design and control of satellite clusters; intelligent collaborative planning and simulation of satellite systems.
-</p></span>
-<span>
-<p style='margin-top:1em; text-align:left'>
-<b>Significant Achievements</b></p>
-<p style='margin-left:1em;'>
-Published 2 monographs under the <span style="color:#c00000"><b>National Publication Project</b></span>, and over <b>100 high-level papers</b> in journals such as IEEE TAC, Signal Processing, and other Tier 1 journals of the Chinese Academy of Sciences, along with more than 50 patents.
-<br>
-<span style="color:#c00000"><b>First in the world</b></span> to propose major technological breakthroughs, <b>Liheng Wang, Weimin Bao academicians</b> and experts in the field unanimously identified "satellite formation configuration design and maintenance control technology at the international leading level" applied in national major projects, <b>5 types of 12 sets of equipment</b>, frequently featured on <b>CCTV</b>, <b>People's Daily</b>, The Paper, Sina News, Shanghai Jiao Tong University's headlines, and awarded <b>Top Ten Scientific and Technological Progress Awards by Shanghai Jiao Tong University</b>.
-<br>
-Research funding <span style="color:#c00000"><b>>100 million</b></span>, infrastructure <span style="color:#c00000"><b>>100 million</b></span>: National "973" Program, Natural Science Foundation, Military Science and Technology Committee, Equipment Development Department, National Defense Science and Industry Bureau, high-resolution special project, 863 Plan, and BeiDou and Deep Space Exploration special projects.
-<br>
-Utilizing self-developed <span style="color:#c00000"><b>Lv Shang's Large Model</b></span> to drive <b>swarm intelligence</b> from end-to-end self-game training, achieving AI-driven cross-level coordination of swarm intelligence, supported by the Military Science Committee and Equipment Development Department and other national key projects.
-</p></span>
-<span>
-<p style='margin-top:1em; text-align:left'>
-<b>Laboratory Details</b></p>
+<b>Highlights</b></p>
 <p style='margin-left:1em;'>
 <span style="color:#c00000"><b>Core Mechanism Innovation · Major Technological Breakthroughs · Joyful Exploration with Peers</b></span>
 <br>
-<b>Endorsed by the General Equipment Department, joint construction with enterprises: Distributed Satellite Systems Technology Laboratory</b>;
+<b>Endorsed by the General Equipment Department: Distributed Satellite Systems Technology Laboratory</b>;
 <br>
 <b>First in the world</b>: Analytical design of formation configurations, optimal fuel accuracy maintenance, and complex disturbance relative navigation technologies;
 <br>
@@ -73,4 +61,3 @@ Utilizing self-developed <span style="color:#c00000"><b>Lv Shang's Large Model</
 </div>
 <div class="caption">
 </div>
-
