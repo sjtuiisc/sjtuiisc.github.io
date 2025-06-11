@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 <div class="warning">
 <span>
 <p style='margin-top:1em; text-align:left'>
-<b>研究所简介</b></p>
+<b>Brief Introduction</b></p>
 <p style='margin-left:1em;'>
 The Institute of Intelligent Sensing and Control at Shanghai Jiao Tong University is committed to serving the nation’s major strategic development needs. It has long been dedicated to integrating "AI+X" algorithm research with intelligent sensing and control, swarm intelligence self-play, and iterative scientific innovation. The Institute has independently developed the “Lü Shang” multimodal large model, leading the initiation and demonstration of major national scientific equipment projects and achieving a series of groundbreaking research outcomes.
 
