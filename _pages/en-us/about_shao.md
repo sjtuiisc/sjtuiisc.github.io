@@ -4,7 +4,7 @@
 
 **Titles**: Dean of School of Sensing Science and Engineering, Deputy Director of the Ministry of Education Aerospace Science and Technology Engineering Center, Director of Institute of Intelligent Sensing and Control, Director of Distributed Satellite Systems Technology Laboratory
 
-**Affiliation**: School of Aeronautics and Astronautics, School of Electronic Information and Electrical Engineering
+**Affiliation**: School of Aeronautics and Astronautics, School of Automation and Intelligent Sensing
 
 **Personal webpage**: [[university webpage]](https://www.aero.sjtu.edu.cn/Data/View/1020), [[Baidu Encyclopedia]](https://baike.baidu.com/item/邵晓巍/59736028)
 

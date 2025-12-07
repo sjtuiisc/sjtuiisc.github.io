@@ -2,7 +2,7 @@
 
 **Assistant Professor**
 
-**Affiliation**: School of Electronic Information and Electrical Engineering
+**Affiliation**: School of Automation and Intelligent Sensing
 
 **Personal webpage**: [[university webpage]](https://ssse.sjtu.edu.cn/Data/Info/512), [[Google Scholar]](https://scholar.google.com/citations?user=YiROhYsAAAAJ&hl=en)
 
