@@ -4,7 +4,7 @@
 
 **上海海外高层次人才计划**
 
-**学院**: 电子信息与电气工程学院
+**学院**: 自动化与感知学院
 
 **个人主页**: [[学校主页]](https://ssse.sjtu.edu.cn/Data/Info/518)、 [[个人主页]](https://theganyu.github.io)、[[Google Scholar]](https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en)
 

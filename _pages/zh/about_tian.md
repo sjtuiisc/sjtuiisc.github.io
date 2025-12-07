@@ -2,7 +2,7 @@
 
 **助理研究员**
 
-**学院**: 电子信息与电气工程学院
+**学院**: 自动化与感知学院
 
 **个人主页**: [[学校主页]](https://ssse.sjtu.edu.cn/Data/Info/512)、[[Google Scholar]](https://scholar.google.com/citations?user=YiROhYsAAAAJ&hl=en)
 

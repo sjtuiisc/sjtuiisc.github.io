@@ -2,7 +2,7 @@
 
 **Post-doctoral Fellow**
 
-**Affiliation**: School of Electronic Information and Electrical Engineering
+**Affiliation**: School of Automation and Intelligent Sensing
 
 **Research interests**: Object detection, XR, and algorithmic research on region detection, information compensation, and path planning based on visual field defects.
 

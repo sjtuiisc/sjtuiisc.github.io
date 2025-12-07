@@ -64,4 +64,16 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: left
+    image: liubingjie.jpg
+    content: about_liubingjie.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: jiangjiaxin.jpg
+    content: about_jiangjiaxin.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
 ---

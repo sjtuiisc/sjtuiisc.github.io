@@ -2,7 +2,7 @@
 page_id: Academic Staff
 layout: profiles
 permalink: /academic-staff/
-title: Academic Staff
+title: 教师
 description:
 nav: false
 nav_order: 2
@@ -35,6 +35,12 @@ profiles:
     more_info: 
 
   - align: left
+    image: chu_pic.jpg
+    content: about_chu.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
     image: daimingzhi.jpg
     content: about_daimingzhi.md
     image_circular: false # crops the image to make it circular
@@ -55,6 +61,18 @@ profiles:
   - align: left
     image: liuwei.jpg
     content: about_liuwei.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: liubingjie.jpg
+    content: about_liubingjie.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: jiangjiaxin.jpg
+    content: about_jiangjiaxin.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
