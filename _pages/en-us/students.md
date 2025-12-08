@@ -11,6 +11,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 
+
   - align: left
     image: caoyong.jpg
     content: about_caoyong.md
@@ -90,6 +91,12 @@ profiles:
     more_info: 
 
   - align: left
+    image: jiangzishan.jpg
+    content: about_jiangzishan.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
     image: chenzheng.jpg
     content: about_chenzheng.md
     image_circular: false # crops the image to make it circular
@@ -154,4 +161,33 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: left
+    image: chujiaming.jpg
+    content: about_chujiaming.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: chenxuanyu.jpg
+    content: about_chenxuanyu.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: dengqiaomu.jpg
+    content: about_dengqiaomu.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: lihaobin.jpg
+    content: about_lihaobin.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: liuxuan.jpg
+    content: about_liuxuan.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
 ---
